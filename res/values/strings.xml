@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Calc.</string>
+    <string name="hello_world">Hello world!</string>
+   	<string name="textview">Hello I am Text View</string>
+   	<string name="button">Hello I am a Button</string>
+   	<string name="testxml">test</string>
+   	<string name="x">D</string>
+   	<string name="r">R</string>
+   	<string name="a">1</string>
+   	<string name="b">2</string>
+   	<string name="c">3</string>
+   	<string name="d">4</string>
+   	<string name="e">5</string>
+   	<string name="f">6</string>
+   	<string name="g">7</string>
+   	<string name="h">8</string>
+   	<string name="i">9</string>
+   	<string name="j">+</string>
+   	<string name="k">-</string>
+   	<string name="l">0</string>
+   	<string name="m">X</string>
+   	<string name="n">/</string>
+   	<string name="o">=</string>
+</resources>
+
